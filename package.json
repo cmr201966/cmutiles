@@ -1,0 +1,15 @@
+{
+  "name": "cmutiles",
+  "version": "1.0.0",
+  "description": "biblioteca de utilidades",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cmutiles",
+    "m2g-software"
+  ],
+  "author": "Carlos Mora Rojas",
+  "license": "MIT"
+}
